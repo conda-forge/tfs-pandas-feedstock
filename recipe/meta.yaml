@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/tfs-pandas-{{ version }}.tar.gz
-  sha256: 64d9f3247d32767ab9c462f2caf9c5911c6d5703692b625fbd99abad92319a6c
+  sha256: fd4e645db2ec983ad8350d832ccbed2ae8d671e25fa8c4a7b3e86bf5462183b8
 
 build:
   number: 0
