@@ -1,11 +1,11 @@
-About tfs-pandas
-================
+About tfs-pandas-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tfs-pandas-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pylhc/tfs
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tfs-pandas-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python 3 package to handle TFS files.
 
