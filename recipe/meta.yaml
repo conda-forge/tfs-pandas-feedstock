@@ -1,5 +1,5 @@
 {% set name = "tfs-pandas" %}
-{% set version = "3.4.0" %}
+{% set version = "3.5.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/tfs-pandas-{{ version }}.tar.gz
-  sha256: 9aa34429e7ad565ec193b58efb1b72d4a6fc9acf47d0941627f63b32c2d1f7d4
+  sha256: 6929d1d229f6d32bf73aa215d663a1888e5f8e04dba55004557587d7544640d1
 
 build:
   number: 0
